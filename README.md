@@ -5,7 +5,7 @@ test Folder
 - snake.html: Snake game
 
 
-MatTalk Folder
+MatTalk Folder (details: https://kimheejoo.notion.site/mattalk?pvs=4)
 
 - main.py: Server (connected to Bedrock Claude 3.5 Sonnet)
 - index.html: Landing page (Start)
