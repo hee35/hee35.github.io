@@ -1,8 +1,11 @@
-📁 test
+📁 test: practice
 
 - `chat.html`: Chatbot using the OpenAI API  
 - `game.html`: Tic-Tac-Toe game  
-- `snake.html`: Classic snake game
+- `snake.html`: Snake game
+- 📁 socket: [Details in Notion](https://kimheejoo.notion.site/socket?pvs=4)  
+  - `server.py`  
+  - `client.py`
 
 📁 MatTalk – [Project Details in Notion](https://kimheejoo.notion.site/mattalk?pvs=4)
 
