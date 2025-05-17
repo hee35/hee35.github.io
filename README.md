@@ -1,2 +1,17 @@
-test 폴더는 과제로 작성했던 파일입니다.
-MatTalk 폴더는 프로젝트로 AWS에서 배포했던 파일입니다.
+test Folder
+
+- chat.html: Chatbot utilizing the OpenAI API
+- game.html: Tic-Tac-Toe game
+- snake.html: Snake game
+
+
+MatTalk Folder
+
+- main.py: Server (connected to Bedrock Claude 3.5 Sonnet)
+- index.html: Landing page (Start)
+- info.html: User information input page
+- data.html: User data input result confirmation page
+- start.html: Chat mode selection page
+- food.html: Casual food recommendation chat page
+- good.html: Balanced nutrition meal recommendation chat page
+- new.html: Adventurous food recommendation chat page
