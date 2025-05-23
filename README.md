@@ -1,13 +1,4 @@
-📁 test: practice
-
-- `chat.html`: Chatbot using the OpenAI API  
-- `game.html`: Tic-Tac-Toe game  
-- `snake.html`: Snake game
-- 📁 socket: [Details in Notion](https://kimheejoo.notion.site/socket?pvs=4)  
-  - `server.py`  
-  - `client.py`
-
-📁 MatTalk – [Project Details in Notion](https://kimheejoo.notion.site/mattalk?pvs=4)
+MatTalk – [Project Details in Notion](https://kimheejoo.notion.site/mattalk?pvs=4)
 
 - `main.py`: Backend server (connected to Bedrock Claude 3.5 Sonnet)  
 - `index.html`: Landing page (Start)  
